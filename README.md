@@ -34,5 +34,3 @@ You must have Apache server running in order to run this app
 Klodjan Mata
 [LinkedIn](https://www.linkedin.com/in/klodjanmata/)
 [GitHub](https://github.com/klodjanmata)
-
-### License
