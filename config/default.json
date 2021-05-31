@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://klodjan123:klodjan123@linkedin-app.ni8k0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
