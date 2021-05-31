@@ -1,10 +1,13 @@
-# DevConnector 2.0
+# Albanian Dev Connector
 
 > Social network for developers
 
-This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA). It is a small social network app that includes authentication, profiles and forum posts.
+This is a application created as a school project.
+The idea is to create a wide albanian developer community that can help each other or exchange ideas or experiences. It's kind of a profesional social network. The concept was to be something between stackoverflow and LinkedIn.
+If you want to contribute please feel free to create new branches or to fork the project and keep making it better.
+Maybe one day this will be the biggest Developer Community in Albania!
 
-## Quick Start
+## How to Start
 
 ```bash
 # Install server dependencies
@@ -22,17 +25,14 @@ cd client
 npm run build
 ```
 
-## App Info
+## Other
+
+You must have Apache server running in order to run this app
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-2.0.0
+Klodjan Mata
+[LinkedIn](https://www.linkedin.com/in/klodjanmata/)
+[GitHub](https://github.com/klodjanmata)
 
 ### License
-
-This project is licensed under the MIT License
